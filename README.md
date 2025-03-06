@@ -32,5 +32,5 @@ jupyter notebook
 📢 Suggestions & feedback are welcome! Let's connect and discuss data! 🚀
 
 🔗 Connect with Me
-📌 GitHub: 
+📌 GitHub: https://github.com/Sujalkadam17
 📌 LinkedIn: https://www.linkedin.com/in/sujal-kadam-2851a5261/
