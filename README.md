@@ -29,6 +29,8 @@ jupyter notebook
 
 4️⃣ Open ipl_data_analysis.ipynb and explore the insights!
 
+Please do same steps for FIFA notebook also 
+
 📢 Suggestions & feedback are welcome! Let's connect and discuss data! 🚀
 
 🔗 Connect with Me
